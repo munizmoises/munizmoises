@@ -1,5 +1,5 @@
 # 😄 Bem-vindo ao meu perfil, me chamo Moisés Muniz!
-Atualmente estou cursando **Ciência da Computação na UVV** (1º Período) e desenvolvendo competências focadas em se tornar um Desenvolvedor Front-End completo.
+Atualmente estou cursando **Ciência da Computação na FAESA** e desenvolvendo competências focadas em se tornar um Desenvolvedor completo.
 
 ---
 
@@ -31,5 +31,5 @@ Atualmente estou cursando **Ciência da Computação na UVV** (1º Período) e d
 
 ## 👥 Me encontre:
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mois%C3%A9s-muniz/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisesmuniz/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moisesmuniz199@gmail.com)
