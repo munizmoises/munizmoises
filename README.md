@@ -23,7 +23,9 @@ Atualmente estou cursando **Ciência da Computação na FAESA** e desenvolvendo 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/> - JavaScript
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25"/> - PostgreSQL / Banco de Dados
+<img src="https://githubusercontent.com" alt="Python" width="25" height="25"/> - Python
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25"/> - PostgreSQL
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="25" height="25"/> - Git & GitHub
 
